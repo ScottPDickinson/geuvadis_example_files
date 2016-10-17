@@ -1,9 +1,10 @@
 This repository contains scripts for downloading and formatting gEUVADIS
-genotype data so it can be used for PredictDB's pipeline.  The files
-themselves are very large (size of all files after downloading and
-processing is about 60GB), and the software requires a large amount of
-RAM, so beware.  Mainly including this on github for reproducibility
-purposes and if scripts need to be adapted for other data sets.
+genotype data so it can be used for PredictDB's pipeline
+(https://github.com/hakyimlab/PredictDBPipeline).  The files themselves
+are very large (size of all files after downloading and processing
+is about 60GB), and the software requires a large amount of RAM, so
+beware.  Mainly including this on github for reproducibility purposes
+and if scripts need to be adapted for other data sets.
 
 ### Dependencies
 
